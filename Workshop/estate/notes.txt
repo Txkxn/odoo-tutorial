@@ -1,0 +1,6 @@
+does odoo allow users to make their own offers?
+  Can we include this functionality...
+
+Can we include functionality described in estate_property.py line 14
+
+
